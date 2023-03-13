@@ -1,0 +1,10 @@
+table{
+	border:solid 2px red;
+}
+td{
+	border:solid 2px blue;
+}
+p{
+	position:relative;
+	text-align:center;
+}
